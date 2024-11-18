@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries and cook dinner",
+    "status": "done",
+    "createdAt": "Nov/14/2024 - 22:27:53",
+    "updatedAt": "Nov/16/2024 - 16:48:26"
+  },
+  {
+    "id": 2,
+    "description": "do",
+    "status": "todo",
+    "createdAt": "Nov/16/2024 - 15:52:17",
+    "updatedAt": "Nov/16/2024 - 15:52:17"
+  },
+  {
+    "id": 3,
+    "description": "Buy groceries and cook dinner",
+    "status": "in-progress",
+    "createdAt": "Nov/16/2024 - 16:43:41",
+    "updatedAt": "Nov/16/2024 - 16:43:41"
+  }
+]
