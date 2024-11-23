@@ -4,8 +4,8 @@
 
 Task CLI is a simple, lightweight command-line interface (CLI) task management application built in Python. It allows users to add, update, delete, and track tasks with different statuses.
 
-This is one of the exercises at roadmap.sh.
-Link: https://roadmap.sh/projects/task-tracker
+This is one of the exercises at roadmap.sh 
+[Link to the project](https://roadmap.sh/projects/task-tracker)
 
 ## Features
 
